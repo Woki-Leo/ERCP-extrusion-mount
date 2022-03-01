@@ -14,6 +14,9 @@ compact mod of the ERCP
 - look cool
 
 ## What you need:
+Note: 
+- the buffer wheels and buffer 608 adapters are the same as in the original design!
+  
 General:
 - M5 threaded rod for the buffers (20mm + amount of buffers*20mm)
 - M5 nuts
