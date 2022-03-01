@@ -1,11 +1,11 @@
 # ERCP-extrusion-mount
 compact mod of the ERCP
 
-![grafik](Resources/1.PNG)
+![grafik](resources/1.PNG)
 
-![grafik](Resources/2.PNG)
+![grafik](resources/2.PNG)
 
-![grafik](Resources/3.PNG)
+![grafik](resources/3.PNG)
 
 ## What it does:
 - combine spoolholder and buffer into a  really small and dense package 
