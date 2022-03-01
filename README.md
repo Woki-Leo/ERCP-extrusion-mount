@@ -12,6 +12,7 @@ compact mod of the ERCP
 - can be hung from the ceiling or placed on a level surface
 - make spool changing fast and easy
 - look cool
+- Buffer length per winding: ca 400mm
 
 ## What you need:
 Note: 
